@@ -7,13 +7,13 @@
   </picture>
 </div>
 
-  <br>
+<br>
   
-  - A passionate Front-end developer
-  - Playing CTF's at spare time
-  - Currently learning Web Development by Self
+- A passionate Front-end developer
+- Playing CTF's at spare time
+- Currently learning Web Development by Self
   
-  <br><br>
+<br><br>
 
 
 
