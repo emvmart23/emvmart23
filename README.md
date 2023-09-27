@@ -5,7 +5,7 @@
 <div align="center" rounded=50%>
   <picture> <img      
     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdng5ajU3c2x3OTEwYjlweG9pMmlrbDk3bnlzMzk3Y251NHVkbTJ1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.gif"     
-    width="300"> 
+    width="250"> 
   </picture>
 </div>
 <div>
