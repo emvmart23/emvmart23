@@ -7,10 +7,8 @@
   </picture>
 </div>
 
-<br>
-<br>
-
-<br>
+<div>
+<div>
   
 - A passionate Front-end developer
 - Playing CTF's at spare time
