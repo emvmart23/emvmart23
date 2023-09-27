@@ -14,7 +14,7 @@
 <br>
   
 - A passionate Front-end developer
-- Playing CTF's at spare time
+- Playing with React in my days off
 - Currently learning Web Development by Self
   
 <br><br>
