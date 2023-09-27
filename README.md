@@ -12,7 +12,7 @@
 <br><br>
 <br>
   
-- A passionate Front-end developer
+- A passionate Software developer
 - Playing with React in my days off
 - Currently learning Web Development by Self
   
