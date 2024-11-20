@@ -1,5 +1,5 @@
 # 💫 Sobre mí:
-Tengo 21 años y soy un apasionado programador con un fondo académico en diseño y desarrollo de software. Mi curiosidad y entusiasmo por la tecnología me impulsan a aprender constantemente y mantenerme al tanto de las últimas tendencias en el mundo de la programación. Mi objetivo principal es seguir creciendo como desarrollador y construir multiples aplicaciones.<br>
+Tengo 22 años y soy un apasionado programador con un fondo académico en diseño y desarrollo de software. Mi curiosidad y entusiasmo por la tecnología me impulsan a aprender constantemente y mantenerme al tanto de las últimas tendencias en el mundo de la programación. Mi objetivo principal es seguir creciendo como desarrollador y construir multiples aplicaciones.<br>
 
 
 ## 🌐 Redes sociales:
